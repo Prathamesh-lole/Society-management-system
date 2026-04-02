@@ -1,0 +1,22 @@
+# Frontend
+society-maintenance/node_modules/
+society-maintenance/build/
+society-maintenance/.env.local
+society-maintenance/.env.development.local
+society-maintenance/.env.test.local
+society-maintenance/.env.production.local
+society-maintenance/npm-debug.log*
+society-maintenance/yarn-debug.log*
+society-maintenance/yarn-error.log*
+society-maintenance/.DS_Store
+
+# Backend
+societymainteinance/societymainteinance/target/
+societymainteinance/societymainteinance/.mvn/wrapper/maven-wrapper.jar
+societymainteinance/societymainteinance/.idea/
+societymainteinance/societymainteinance/*.iws
+societymainteinance/societymainteinance/*.iml
+societymainteinance/societymainteinance/*.ipr
+societymainteinance/societymainteinance/.settings/
+societymainteinance/societymainteinance/.classpath
+societymainteinance/societymainteinance/.project
