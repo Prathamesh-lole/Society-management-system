@@ -167,10 +167,3 @@ Key endpoint groups: `/auth`, `/residents`, `/admins`, `/vendors`, `/flats`, `/c
 - `/forgot-password` — Password recovery
 - `/features`, `/about`, `/contact` — Static info pages
 
----
-
-## ⚠️ Important Notes
-
-- Never commit your real `application.properties` credentials to GitHub
-- Razorpay is configured in test mode — use Razorpay test card details for payments
-- Vendor OTP login requires a valid Gmail App Password (not your regular Gmail password)
